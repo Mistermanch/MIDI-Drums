@@ -1,24 +1,25 @@
 1.For the pads
-- Foam (Get a Foam yoga mat for cheap materials) https://www.decathlon.es/es/p/aislante-esterilla-de-espuma-180-50-cm-forclaz-m100/13259/c210m5591048
-- Base layer: Plywood 60*30*1cm ()
-- Sensor: Piezo sensor 27mm https://amzn.eu/d/06fRtvy3
-- EVA rubber sheets: https://amzn.eu/d/05HnhJ7I
+- Foam (Get a Foam yoga mat for cheap materials) https://www.decathlon.es/es/p/aislante-esterilla-de-espuma-180-50-cm-forclaz-m100/13259/c210m5591048 - 1
+- Base layer: Plywood 60*30*1cm - 1
+- Sensor: Piezo sensor 27mm https://amzn.eu/d/06fRtvy3 - At least 8
+- EVA rubber sheets: https://amzn.eu/d/05HnhJ7I - Enough to cover all the pads
+
 2.For the computer
-- Arduino Nano https://amzn.eu/d/0cT62Rpz
-- Cables (If soldering) https://amzn.eu/d/03HRzQ3u
-- Cables (If not soldering) https://amzn.eu/d/0canp6XI
-- Heat shring tubing https://amzn.eu/d/02Q5waYh
-- Breadboard (If not soldering) https://amzn.eu/d/089AIJyd
-- 1M Ohm resistor https://amzn.eu/d/06Bp9nCk
+- Arduino Nano https://amzn.eu/d/0cT62Rpz - 1
+- Hifi 0,75mm2 Cables- Around 10m (just in case)
+- Heat shring tubing https://amzn.eu/d/02Q5waYh - A bunch
+- 1M Ohm resistors https://amzn.eu/d/06Bp9nCk- Same as piezo sensors
+- Dupont cables - A bunch
+
 3. For the base
 
 4.Tools and miscellaneous
-- Soldering iron (Optional)
+- Soldering iron
 - Tin
-- Flux (Recommended if soldering)
+- Flux (Recommended)
 - Flush cutter
-- 3D printer minnimum A1 mini size
-- Exacto knife
+- 3D printer minimum A1 mini size
+- Exacto knife or cutter
 - Wood saw (Better if it's electric)
 - Hot glue
 - Cutting matt (Recommended)
