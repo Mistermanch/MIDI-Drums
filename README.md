@@ -105,7 +105,7 @@ Build additional pads as needed (maximum 8 pads per Arduino Nano due to analog p
 
 ## License
 
-Add your license information here (e.g., MIT, Creative Commons).
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
