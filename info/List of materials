@@ -1,59 +1,134 @@
-# MIDI Drums - Materials List
+MIDI DRUMS - MATERIALS LIST
+================================================================================
 
-## 1. For the Pads
+1. FOR THE PADS
+================================================================================
 
-| Component | Specification | Quantity | Link/Notes |
-|-----------|---------------|----------|-----------|
-| Foam | Yoga mat (budget option), 5-10mm thickness | 1 | [Decathlon Foam Mat](https://www.decathlon.es/es/p/aislante-esterilla-de-espuma-180-50-cm-forclaz-m100/13259/c210m5591048) |
-| Base Layer | Plywood | 60×30×1 cm | 1 |
-| Piezo Sensors | 27mm | At least 8 | [Amazon Link](https://amzn.eu/d/06fRtvy3) |
-| EVA Rubber Sheets | — | Enough to cover all pads | [Amazon Link](https://amzn.eu/d/05HnhJ7I) |
-| Hot Glue | For bonding layers | As needed | Primary adhesive |
+Foam
+  - Specification: Yoga mat (budget option), 5-10mm thickness
+  - Quantity: 1
+  - Link/Notes: https://www.decathlon.es/es/p/aislante-esterilla-de-espuma-180-50-cm-forclaz-m100/13259/c210m5591048
 
----
+Base Layer
+  - Specification: Plywood
+  - Dimensions: 60×30×1 cm
+  - Quantity: 1
 
-## 2. For the Computer/Electronics
+Piezo Sensors
+  - Specification: 27mm
+  - Quantity: At least 8
+  - Link: https://amzn.eu/d/06fRtvy3
 
-| Component | Specification | Quantity | Link/Notes |
-|-----------|---------------|----------|-----------|
-| Arduino | Nano (R4) | 1 | [Amazon Link](https://amzn.eu/d/0cT62Rpz) |
-| USB-C Cable | For Arduino power & programming | 1 | Required |
-| Hifi Cables | 0.75mm² | ~10m | For general use |
-| Heat Shrink Tubing | — | A bunch | [Amazon Link](https://amzn.eu/d/02Q5waYh) |
-| 1M Ohm Resistors | — | Same as piezo sensors | [Amazon Link](https://amzn.eu/d/06Bp9nCk) |
-| Dupont Cables | Male-to-male & Female-to-female | A bunch | For breadboard connections |
-| Breadboard | — | 1+ | For prototyping and testing circuits |
+EVA Rubber Sheets
+  - Quantity: Enough to cover all pads
+  - Link: https://amzn.eu/d/05HnhJ7I
 
----
+Hot Glue
+  - Purpose: For bonding layers
+  - Quantity: As needed
+  - Notes: Primary adhesive
 
-## 3. For the Base
 
-| Component | Specification | Quantity | Notes |
-|-----------|---------------|----------|-------|
-| Wood | Plywood or other wood types | As needed | To be specified later |
+2. FOR THE COMPUTER/ELECTRONICS
+================================================================================
 
----
+Arduino
+  - Specification: Nano (R4)
+  - Quantity: 1
+  - Link: https://amzn.eu/d/0cT62Rpz
 
-## 4. Tools and Miscellaneous
+USB-C Cable
+  - Purpose: For Arduino power & programming
+  - Quantity: 1
+  - Notes: Required
 
-| Tool | Purpose | Notes |
-|------|---------|-------|
-| Soldering Iron | Electronics assembly | — |
-| Solder (Tin) | PCB/wire connections | — |
-| Flux | Soldering aid | Recommended |
-| Flush Cutter | Component trimming | — |
-| 3D Printer | Enclosure/mounting parts | Minimum A1 mini size |
-| Exacto Knife | Precise cutting | For foam, rubber, etc. |
-| Wood Saw | Material cutting | Better if electric |
-| Hot Glue Gun | Assembly bonding | — |
-| Cutting Mat | Work surface | Recommended |
-| Multimeter | Circuit testing & continuity | Required |
-| Wire Strippers | Cable preparation | Recommended but optional |
-| Tweezers | Small component handling | Same as wire strippers |
-| Insulating Tape | Wire & component insulation | — |
-| Sandpaper | Edge smoothing & finishing | Optional |
+Hifi Cables
+  - Specification: 0.75mm²
+  - Quantity: ~10m
+  - Notes: For general use
 
----
+Heat Shrink Tubing
+  - Quantity: A bunch
+  - Link: https://amzn.eu/d/02Q5waYh
 
-## Notes
+1M Ohm Resistors
+  - Quantity: Same as piezo sensors (at least 8)
+  - Link: https://amzn.eu/d/06Bp9nCk
+
+Dupont Cables
+  - Specification: Male-to-male & Female-to-female
+  - Quantity: A bunch
+  - Notes: For breadboard connections
+
+Breadboard
+  - Quantity: 1 or more
+  - Notes: For prototyping and testing circuits
+
+
+3. FOR THE BASE
+================================================================================
+
+Wood
+  - Specification: Plywood or other wood types
+  - Quantity: As needed
+  - Notes: To be specified later
+
+
+4. TOOLS AND MISCELLANEOUS
+================================================================================
+
+Soldering Iron
+  - Purpose: Electronics assembly
+
+Solder (Tin)
+  - Purpose: PCB/wire connections
+
+Flux
+  - Purpose: Soldering aid
+  - Notes: Recommended
+
+Flush Cutter
+  - Purpose: Component trimming
+
+3D Printer
+  - Purpose: Enclosure/mounting parts
+  - Minimum Size: A1 mini size
+
+Exacto Knife
+  - Purpose: Precise cutting (foam, rubber, etc.)
+
+Wood Saw
+  - Purpose: Material cutting
+  - Notes: Better if electric
+
+Hot Glue Gun
+  - Purpose: Assembly bonding
+
+Cutting Mat
+  - Purpose: Work surface
+  - Notes: Recommended
+
+Multimeter
+  - Purpose: Circuit testing & continuity
+  - Notes: Required
+
+Wire Strippers
+  - Purpose: Cable preparation
+  - Notes: Recommended but optional
+
+Tweezers
+  - Purpose: Small component handling
+  - Notes: Same as wire strippers
+
+Insulating Tape
+  - Purpose: Wire & component insulation
+
+Sandpaper
+  - Purpose: Edge smoothing & finishing
+  - Notes: Optional
+
+
+ADDITIONAL NOTES
+================================================================================
+
 - Additional specifications for base assembly and other components to be detailed later
