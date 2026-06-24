@@ -44,7 +44,7 @@ Perfect for music production, live performance, or learning about hardware-softw
 | Item | Quantity | Notes |
 |------|----------|-------|
 | Arduino Nano | 1 | [Amazon](https://amzn.eu/d/0cT62Rpz) |
-| Breadboard kit (Kit de protoboards) | 1 | [Amazon](https://amzn.eu/d/0dIE0nMj) |
+| Protoboard kit | 1 | [Amazon](https://amzn.eu/d/0dIE0nMj) |
 | HiFi cable (0.75mm²) | ~10m | Extra for safety |
 | Heat shrink tubing | 1 pack | Various sizes |
 | 1M Ohm resistors | 8+ | One per pad |
