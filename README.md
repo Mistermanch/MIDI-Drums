@@ -29,13 +29,13 @@ Perfect for music production, live performance, or learning about hardware-softw
 - ✓ Modular design—build as many pads as needed
 
 ## Bill of Materials
-
+The detailed list of materials is in the info folder
 ### Pad Construction
 
 | Item | Quantity | Notes |
 |------|----------|-------|
 | Foam yoga mat | 1 | [Decathlon](https://www.decathlon.es/es/p/aislante-esterilla-de-espuma-180-50-cm-forclaz-m100/13259/c210m5591048) |
-| Plywood base (60×30×1 cm) | 1 | Cut into 12×12 cm squares |
+| Plywood base (60×30×1 cm) | 1 |  |
 | Piezo sensor (27mm) | 8+ | [Amazon](https://amzn.eu/d/06fRtvy3) |
 | EVA rubber sheets | 1 set | [Amazon](https://amzn.eu/d/05HnhJ7I) |
 
@@ -82,6 +82,7 @@ Use hot silicone glue to attach the foam to the wood with the **shiny side facin
 1. Solder piezo terminals to HiFi cable
 2. Protect all joints with heat shrink tubing
 3. Keep leads organized and labeled
+4. Solder the HiFi cable to dupont male to male cables to later atach it to the circuit
 
 ### Step 5: Test the Pad
 Test your pad using either:
