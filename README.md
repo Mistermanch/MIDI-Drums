@@ -13,7 +13,7 @@ A DIY Arduino-based drum controller that transmits MIDI signals. Build your own 
 ## Overview
 
 This project guides you through building 8 MIDI-enabled drum pads using:
-- Arduino Nano microcontroller
+- Arduino Nano (or Arduino R4 Nano) microcontroller
 - Piezo sensors for strike detection
 - Custom 3D-printed and wood-based construction
 - Minimal soldering required
@@ -44,6 +44,7 @@ Perfect for music production, live performance, or learning about hardware-softw
 | Item | Quantity | Notes |
 |------|----------|-------|
 | Arduino Nano | 1 | [Amazon](https://amzn.eu/d/0cT62Rpz) |
+| Arduino R4 Nano | 1 | [Amazon](https://amzn.eu/d/0dIE0nMj) |
 | HiFi cable (0.75mm²) | ~10m | Extra for safety |
 | Heat shrink tubing | 1 pack | Various sizes |
 | 1M Ohm resistors | 8+ | One per pad |
